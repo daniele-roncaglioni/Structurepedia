@@ -19,9 +19,13 @@ A search engine that returns results as a structured and AI powered interactive 
 #### Flow
 You search for a topic -> Structurepedia returns a visual diagram -> quickly get an overview over a topic.
 
+![sc1](/assets/sc1.png)
+
 #### Navigation
 - You can select  each node in the tree, and you will see all the attached resources appearing on the right 
 - You can navigate the general architecture or go deep into the subject to the level you need.
+
+![sc2](/assets/sc2.png)
 
 #### Resources
 Each node is equipped with different types of resources, as for example:
@@ -30,6 +34,10 @@ Each node is equipped with different types of resources, as for example:
 - Long description of the topic
 - ChatBot primed on the topic
 - many more coming soon!
+
+![sc5](/assets/sc5.png) ![sc3](/assets/sc3.png)
+
+![sc4](/assets/sc4.png)
 
 
 
