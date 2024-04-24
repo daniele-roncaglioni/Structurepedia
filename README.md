@@ -44,7 +44,7 @@ You search for a topic -> Structurepedia returns a visual diagram -> quickly get
 - You can select each node in the tree, and you will see all the attached resources appearing on the right
 - You can navigate the general architecture or go deep into the subject to the level you need.
 
-Threr are different chart types to visualize the diagram.
+There are different chart types to visualize the diagram.
 
 ![sc2](/assets/sc2.png)
 
